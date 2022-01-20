@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yrynelul
 - 👀 I’m interested in programming as a hobby and maybe more... :)
-- 🌱 I’m currently learning CS50 2021
+- 🌱 I’m currently learning CS50 2022
 
 <!---
 - 💞️ I’m looking to collaborate on ...
